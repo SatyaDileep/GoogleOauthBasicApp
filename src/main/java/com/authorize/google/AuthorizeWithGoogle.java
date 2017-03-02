@@ -36,9 +36,9 @@ public class AuthorizeWithGoogle {
     // URI to get auth token
     private static final String AUTH_URI = "https://accounts.google.com/o/oauth2/auth";
     // client ID that is obtained after creating application in console.developers.google.com
-    private static final String clientId = "709132143330-mbe71p4dcikvldtt6t549jnvhqg0sp0d.apps.googleusercontent.com";
+    private static final String clientId = "";
     // client secret that is obtained after creating application in console.developers.google.com
-    private static final String clientSecret = "X2oXgQ3mrlBK8M_RlJjFFAjf";
+    private static final String clientSecret = "";
     // application name that is configured while creating application in console.developers.google.com
     private static final String APPLICATION_NAME = "oauth-basic-client-app";
 
